@@ -1,4 +1,4 @@
-# Group Polarization Interactive System
+# Group Polarisation Interactive System
 Built an immersive interactive installation to raise awareness of group polarization driven by social media filter bubbles, echo chambers, and information cocoons.
 
 ## Project PDF
